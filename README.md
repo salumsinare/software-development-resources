@@ -11,3 +11,4 @@
 1. [Datamaps](https://github.com/markmarkoh/datamaps)
 2. [Maplace](https://github.com/danielemoraschi/maplace.js)
 3. [nolimits4web/Swiper](http://idangero.us/swiper)
+4. [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)
