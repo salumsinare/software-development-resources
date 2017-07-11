@@ -12,3 +12,4 @@
 2. [Maplace](https://github.com/danielemoraschi/maplace.js)
 3. [nolimits4web/Swiper](http://idangero.us/swiper)
 4. [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)
+5. [Gallery](https://github.com/blueimp/Gallery)
