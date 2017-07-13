@@ -5,6 +5,7 @@
 3. [PHPMailer](github.com/PHPMailer/PHPMailer)
 4. [Google API PHP Client](https://github.com/google/google-api-php-client)
 5. [Hybridauth](https://github.com/hybridauth/hybridauth)
+6. [PHPOffice](https://github.com/PHPOffice)
 
 
 ## JS Plugins
